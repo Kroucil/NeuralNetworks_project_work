@@ -20,7 +20,6 @@ The following libraries are needed to run this project:
 tensorflow keras numpy pandas matplotlib scikit-learn pillow
 ```
 <br>
-<br>
 
 ## Link to github repository
 The GitHub of this project can be found [here](https://github.com/Kroucil/NeuralNetworks_project_work).
