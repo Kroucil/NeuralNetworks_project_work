@@ -1,0 +1,11 @@
+=============
+requirements
+=============
+
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
